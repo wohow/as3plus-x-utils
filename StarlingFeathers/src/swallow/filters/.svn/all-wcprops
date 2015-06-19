@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters
+END
+LightFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/LightFilter.as
+END
+Screenshot.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/Screenshot.as
+END
+MaskFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/MaskFilter.as
+END
+MosaicFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/MosaicFilter.as
+END
+HdrFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/HdrFilter.as
+END
+WaveFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/WaveFilter.as
+END
+BumpMakerFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/BumpMakerFilter.as
+END
+AdvancedFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/AdvancedFilter.as
+END
+ShadowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/ShadowFilter.as
+END
+ReliefFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/swallow/filters/ReliefFilter.as
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data
+END
+XMLListListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/XMLListListCollectionDataDescriptor.as
+END
+VectorIntListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/VectorIntListCollectionDataDescriptor.as
+END
+ArrayListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/ArrayListCollectionDataDescriptor.as
+END
+VectorListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/VectorListCollectionDataDescriptor.as
+END
+VectorUintListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/VectorUintListCollectionDataDescriptor.as
+END
+ListCollection.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/ListCollection.as
+END
+IListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/IListCollectionDataDescriptor.as
+END
+HierarchicalCollection.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/HierarchicalCollection.as
+END
+ArrayChildrenHierarchicalCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/ArrayChildrenHierarchicalCollectionDataDescriptor.as
+END
+IHierarchicalCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/IHierarchicalCollectionDataDescriptor.as
+END
+VectorNumberListCollectionDataDescriptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/feathers/data/VectorNumberListCollectionDataDescriptor.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/display/shaders/fragment
+END
+VertexColorFragmentShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/display/shaders/fragment/VertexColorFragmentShader.as
+END
+TextureVertexColorFragmentShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/display/shaders/fragment/TextureVertexColorFragmentShader.as
+END
+TextureFragmentShader.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/display/shaders/fragment/TextureFragmentShader.as
+END

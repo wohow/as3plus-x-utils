@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events
+END
+Event.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/Event.as
+END
+KeyboardEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/KeyboardEvent.as
+END
+Touch.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/Touch.as
+END
+TouchProcessor.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/TouchProcessor.as
+END
+ResizeEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/ResizeEvent.as
+END
+TouchPhase.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/TouchPhase.as
+END
+TouchEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/TouchEvent.as
+END
+TouchMarker.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/TouchMarker.as
+END
+EventDispatcher.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/EventDispatcher.as
+END
+EnterFrameEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/FruitMachine/!svn/ver/24/StarlingFeathers-master/StarlingFeathers/src/starling/events/EnterFrameEvent.as
+END
